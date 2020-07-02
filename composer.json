@@ -1,0 +1,19 @@
+{
+    "name": "bishoy-romany/google-albums-wedgit",
+    "description": "Google Album Wedgit Plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Bishoy Romany",
+            "email": "7bishoyromany7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "Includes\\" : "./includes"
+        }
+    }
+}
